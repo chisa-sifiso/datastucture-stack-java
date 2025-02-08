@@ -8,3 +8,4 @@ Des has been found at index 1.
 The updated stack after pushing "Siv": Thami is at index of 0 Des is at index of 1 Chisa is at index of 2 Vinjwa is at index of 3 Siv is at index of 4 </pre>
 
 <h2>Technologies Used</h2> <ul> <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon" width="20" height="20"/> <strong>Java</strong> for the programming language</li> <li><img src="https://img.icons8.com/color/48/000000/netbeans.png" alt="NetBeans Icon" width="20" height="20"/> <strong>NetBeans IDE</strong> for development</li> </ul>
+<h3>Developed by Sifiso Vinjwa</h3>
